@@ -1,0 +1,26 @@
+{
+  "name": "221-908-joko",
+  "version": "1.0.0",
+  "description": "A personalized music recommendation application that leverages machine learning algorithms to analyze user preferences and behavior, suggesting tailored playlists and discovering new music based on individual taste.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/16983477kovf/221.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "16983477kovf",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
